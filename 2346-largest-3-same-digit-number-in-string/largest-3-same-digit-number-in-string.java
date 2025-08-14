@@ -1,37 +1,16 @@
 class Solution {
     public String largestGoodInteger(String num) {
-        List<String>list=new ArrayList<>();
-        for(int i=0;i<num.length();i++){
-            for(int j=i;j<=num.length();j++){
-                String a=num.substring(i,j);
-                if(a.length()==3){
-                    boolean digit=false;
-                for(int k=1;k<2;k++){
-                   //boolean digit=false;
-                   /*if(a.charAt(k)==0 && a.charAt(k-1)==0 && a.charAt(k+1)==0){
-                    list.add(a);
-                   }*/
-                    if(a.charAt(k)==a.charAt(k-1) && a.charAt(k-1)==a.charAt(k+1)){
-                         
-                         digit=true;
-                    }
-                }
-                if(digit){
-                    //int ans=Integer.parseInt(a);
-                    list.add(a);
-                }
-                }
+        String max="";
+        for(int i=0;i<=num.length()-3;i++){
+            char c=num.charAt(i);
+            if(c==num.charAt(i+1) && c==num.charAt(i+2)){
+                String sub=num.substring(i,i+3);
+            if(max.isEmpty() || sub.compareTo(max)>0){
+                max=sub;
+            }
             }
         }
-        String b="";
-        if(list.size()==1){
-             b=list.get(0);
-        }
-        else if(list.size()>1){
-           b=Collections.max(list);
-        }
-        //String c=String.valueOf(b);
-        return b;
+        return max;
         
     }
 }
