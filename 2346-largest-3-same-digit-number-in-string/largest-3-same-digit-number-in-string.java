@@ -5,7 +5,7 @@ class Solution {
             char c=num.charAt(i);
             if(c==num.charAt(i+1) && c==num.charAt(i+2)){
                 String sub=num.substring(i,i+3);
-            if(max.isEmpty() || sub.compareTo(max)>0){
+            if(max.isEmpty()|| sub.charAt(0)>max.charAt(0)){
                 max=sub;
             }
             }
