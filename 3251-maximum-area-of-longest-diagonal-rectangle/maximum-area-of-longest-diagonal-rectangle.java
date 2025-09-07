@@ -11,7 +11,7 @@ class Solution {
                 area=l*w;
                 if(diagonal>max){
                     max=diagonal;
-                    maxarea=l*w;
+                    maxarea=area;
                 }
                 else if(diagonal==max){
                     maxarea=Math.max(maxarea,area);
