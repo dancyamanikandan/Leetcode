@@ -5,13 +5,9 @@ class Solution {
             int min=Integer.MAX_VALUE;
             int max=Integer.MIN_VALUE;
             for(int j=i;j<nums.length;j++){
-                //int min=Integer.MAX_VALUE;
-                //int max=Integer.MIN_VALUE;
-                //for(int k=i;k<=j;k++){
-                    min=Math.min(min,nums[j]);
-                    max=Math.max(max,nums[j]);
-                //}
-                long diff=(long)max-(long)min;
+                 min=Math.min(min,nums[j]);
+                 max=Math.max(max,nums[j]);
+                 long diff=(long)max-(long)min;
                 sum+=diff;
             }
         }
