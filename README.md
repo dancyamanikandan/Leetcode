@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/dancyamanikandan/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
@@ -46,4 +47,12 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
