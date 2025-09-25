@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/dancyamanikandan/Leetcode/tree/master/0344-reverse-string) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -26,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/dancyamanikandan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -33,6 +35,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
