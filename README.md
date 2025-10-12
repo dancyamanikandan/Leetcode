@@ -15,6 +15,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/dancyamanikandan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/dancyamanikandan/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -22,6 +23,7 @@
 | [0066-plus-one](https://github.com/dancyamanikandan/Leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/dancyamanikandan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/dancyamanikandan/Leetcode/tree/master/0500-keyboard-row) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
