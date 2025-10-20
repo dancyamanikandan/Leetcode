@@ -35,6 +35,7 @@
 | [0066-plus-one](https://github.com/dancyamanikandan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/dancyamanikandan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dancyamanikandan/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 ## Hash Table
@@ -63,8 +64,14 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/dancyamanikandan/Leetcode/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
+| [1013-fibonacci-number](https://github.com/dancyamanikandan/Leetcode/tree/master/1013-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/dancyamanikandan/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
