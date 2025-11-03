@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/dancyamanikandan/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
 | [2887-sort-vowels-in-a-string](https://github.com/dancyamanikandan/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -28,6 +29,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/dancyamanikandan/Leetcode/tree/master/0500-keyboard-row) |
+| [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -78,4 +80,12 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/dancyamanikandan/Leetcode/tree/master/1013-fibonacci-number) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
