@@ -31,6 +31,7 @@
 | [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/dancyamanikandan/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -50,6 +51,7 @@
 | [0013-roman-to-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/0013-roman-to-integer) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/dancyamanikandan/Leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Simulation
