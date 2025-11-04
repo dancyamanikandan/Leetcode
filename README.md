@@ -31,6 +31,7 @@
 | [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [0500-keyboard-row](https://github.com/dancyamanikandan/Leetcode/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+| [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -57,6 +58,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
 ## Two Pointers
 |  |
@@ -92,4 +94,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+## Matrix
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
