@@ -22,6 +22,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dancyamanikandan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2887-sort-vowels-in-a-string](https://github.com/dancyamanikandan/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
 |  |
@@ -35,6 +36,7 @@
 | [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dancyamanikandan/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dancyamanikandan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dancyamanikandan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
@@ -46,6 +48,7 @@
 | [0066-plus-one](https://github.com/dancyamanikandan/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/dancyamanikandan/Leetcode/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/dancyamanikandan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/dancyamanikandan/Leetcode/tree/master/1013-fibonacci-number) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/dancyamanikandan/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
