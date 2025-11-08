@@ -22,6 +22,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/dancyamanikandan/Leetcode/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/dancyamanikandan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dancyamanikandan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2887-sort-vowels-in-a-string](https://github.com/dancyamanikandan/Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 ## Array
@@ -35,6 +36,7 @@
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/dancyamanikandan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dancyamanikandan/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0628-maximum-product-of-three-numbers](https://github.com/dancyamanikandan/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/dancyamanikandan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -59,6 +61,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/dancyamanikandan/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/dancyamanikandan/Leetcode/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
+| [0594-longest-harmonious-subsequence](https://github.com/dancyamanikandan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dancyamanikandan/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -101,6 +104,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/dancyamanikandan/Leetcode/tree/master/0561-array-partition) |
+| [0594-longest-harmonious-subsequence](https://github.com/dancyamanikandan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 ## Matrix
 |  |
 | ------- |
@@ -108,5 +112,6 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/dancyamanikandan/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/dancyamanikandan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
