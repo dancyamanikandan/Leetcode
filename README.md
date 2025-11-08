@@ -35,6 +35,7 @@
 | [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/dancyamanikandan/Leetcode/tree/master/0575-distribute-candies) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/dancyamanikandan/Leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0643-maximum-average-subarray-i](https://github.com/dancyamanikandan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1006-vowel-spellchecker](https://github.com/dancyamanikandan/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1031-add-to-array-form-of-integer](https://github.com/dancyamanikandan/Leetcode/tree/master/1031-add-to-array-form-of-integer) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/dancyamanikandan/Leetcode/tree/master/2847-find-maximum-number-of-string-pairs) |
@@ -101,4 +102,8 @@
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/dancyamanikandan/Leetcode/tree/master/0566-reshape-the-matrix) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/dancyamanikandan/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
